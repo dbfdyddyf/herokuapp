@@ -13,19 +13,19 @@ class User < ActiveRecord::Base
     REFERRAL_STEPS = [
         {
             'count' => 5,
-            "html" => "Shave<br>Cream",
+            "html" => "Computach<br>Insider",
             "class" => "two",
-            "image" =>  ActionController::Base.helpers.asset_path("refer/cream-tooltip@2x.png")
+            "image" =>  ActionController::Base.helpers.asset_path("refer/Insider2.png")
         },
         {
             'count' => 10,
-            "html" => "Truman Handle<br>w/ Blade",
+            "html" => "Computach<br>Coozie",
             "class" => "three",
             "image" => ActionController::Base.helpers.asset_path("refer/Koozie2.png")
         },
         {
             'count' => 25,
-            "html" => "T-shirt<br>Shave Set",
+            "html" => "Computach<br>T-Shirt",
             "class" => "four",
             "image" => ActionController::Base.helpers.asset_path("refer/tshirt2x.png")
         },
