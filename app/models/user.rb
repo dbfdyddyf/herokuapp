@@ -21,19 +21,19 @@ class User < ActiveRecord::Base
             'count' => 10,
             "html" => "Truman Handle<br>w/ Blade",
             "class" => "three",
-            "image" => ActionController::Base.helpers.asset_path("refer/truman@2x.png")
+            "image" => ActionController::Base.helpers.asset_path("refer/Koozie2.png")
         },
         {
             'count' => 25,
-            "html" => "Winston<br>Shave Set",
+            "html" => "T-shirt<br>Shave Set",
             "class" => "four",
-            "image" => ActionController::Base.helpers.asset_path("refer/winston@2x.png")
+            "image" => ActionController::Base.helpers.asset_path("refer/tshirt2x.png")
         },
         {
             'count' => 50,
             "html" => "One Year<br>Free Blades",
             "class" => "five",
-            "image" => ActionController::Base.helpers.asset_path("refer/blade-explain@2x.png")
+            "image" => ActionController::Base.helpers.asset_path("refer/Ctach_refer2.png")
         }
     ]
 
