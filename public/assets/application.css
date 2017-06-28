@@ -4285,7 +4285,7 @@ html.home {
     width: 46px;
     height: 19px;
     margin: 0 auto;
-    background: url(/assets/home/key.png) 0 0 no-repeat;
+    background: url(/assets/home/key@2x.png) 0 0 no-repeat;
     background-size: 46px 19px
 }
 
