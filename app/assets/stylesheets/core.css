@@ -309,7 +309,7 @@ html.home {
 #refer .mammoth {
     width: 612px;
     height: 394px;
-    background: url(/assets/refer/mammoth.png) 0 0 no-repeat;
+    background: url(/assets/refer/evolution.png) 0 0 no-repeat;
     background-size: 610px 394px;
     overflow: hidden;
     margin-top: 15px;
@@ -653,7 +653,7 @@ only screen and (min-device-pixel-ratio: 2) {
         background-size: 106px 19px;
     }
     #refer .mammoth {
-        background: url(/assets/refer/mammoth@2x.png) 0 0 no-repeat;
+        background: url(/assets/refer/Evolution2.png) 0 0 no-repeat;
         background-size: 610px 394px;
     }
     #refer .share-wrap .social-links .fb {
